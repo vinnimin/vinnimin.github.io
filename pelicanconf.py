@@ -26,8 +26,12 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/vinicius-min-soo-81b41211b/'),
+          ('github', 'https://github.com/vinnimin'),
+          ('twitter', 'https://twitter.com/username'),
+          )
+
+THEME = 'pelican-themes/pelican-blue'
 
 DEFAULT_PAGINATION = 10
 
