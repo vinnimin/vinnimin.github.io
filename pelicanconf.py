@@ -12,6 +12,14 @@ TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = u'pt'
 
+THEME = 'pelican-themes/pelican-blue'
+
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/vinicius-min-soo-81b41211b/'),
+          ('github', 'https://github.com/vinnimin')
+          )
+
+""",('twitter', 'https://twitter.com/username'),"""
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
