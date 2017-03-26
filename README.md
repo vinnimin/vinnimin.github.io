@@ -1,1 +1,0 @@
-# vinnimin.github.io
