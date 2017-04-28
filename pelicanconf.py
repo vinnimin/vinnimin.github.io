@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Vinicius Min Soo'
-SITENAME = u"VinniMin's Blog"
+SITENAME = u"Min Soo's Blog"
 SITEURL = ''
 
 PATH = 'content'
@@ -20,12 +20,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('DataWiden', 'www.datawiden.com'))
+LINKS = (('DataWiden', 'www.datawiden.com'),
+	)
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/vinicius-min-soo-81b41211b/'),
           ('github', 'https://github.com/vinnimin'),
-          ('twitter', 'https://twitter.com/username'),
           )
 
 THEME = 'pelican-themes/pelican-blue'
